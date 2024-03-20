@@ -42,8 +42,9 @@ Preencha os campos: tipo de turma (Regular ou Diversificada), curso (Curso encer
 
 ![Descrição alternativa da imagem](img/img_002.png)
 
-**_`Caso a escola oferte mais de um curso, o processo deverá ser repetido uma vez para cada curso.
-Sugestão: Escolas que já possuem turmas de AEE ou PROSA, nesse momento abram também o ano letivo para as turmas diversificadas.`_**
+**_Caso a escola oferte mais de um curso, o processo deverá ser repetido uma vez para cada curso. _**
+
+**_Sugestão:_** Escolas que já possuem turmas de AEE ou PROSA, nesse momento abram também o ano letivo para as turmas diversificadas.
 
 
 ## 4. TURMA REGULAR
