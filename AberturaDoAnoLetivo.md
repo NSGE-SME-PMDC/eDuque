@@ -19,7 +19,20 @@ O cadastro ocorrerá no módulo Rede de Ensino através do menu Cadastros > Infr
 
 ## 2. AMBIENTE
 
-Para cadastrar os ambientes existentes nas unidades (escolas e outros órgãos) da rede de ensino, o cadastro ocorrerá no módulo Rede de ensino através do menu Cadastros > Infraestrutura > Ambiente. Nessa tela também é possível pesquisar os ambientes já cadastrados para a unidade, o que é bastante útil pois pode evitar que seja criado um ambiente duplicado de algum já existente. Para criar um ambiente, clique no ícone de inclusão, insira as informações do ambiente: Tipo (sala de aula, almoxarifado, banheiro, etc.); Número; Localização; Recebe turma; Ambiente adaptado para sala de aula; Capacidade real; Capacidade física; Área (m²); Ambiente climatizado; Acessível para pessoas com deficiência ou mobilidade reduzida.
+O cadastro ocorrerá no módulo Rede de ensino, através do menu Cadastros > Infraestrutura > Ambiente para cadastrar os ambientes existentes nas unidades (escolas e outros órgãos) da rede de ensino. Nessa tela também é possível pesquisar os ambientes já cadastrados para a unidade (o que é bastante útil pois pode evitar que seja criado um ambiente duplicado de algum já existente).
+
+Para criar um ambiente clique no ícone de inclusão, insira as informações do ambiente: Tipo (sala de aula, almoxarifado, banheiro etc.); Número (a numeração será dada da forma que a unidade achar mais adequada, só não poderá repetir o mesmo número para o mesmo tipo de ambiente); Localização (estará preenchido com o nome da sua unidade); Recebe turma (se esse campo for preenchido com “Não”, o ambiente não será exibido durante a criação das turmas); Ambiente adaptado para sala de aula; Capacidade real; Capacidade física; Área (m²); Ambiente climatizado, Acessível para pessoas com deficiência ou mobilidade reduzida.
+
+**_Caso não saiba a medida de algum ambiente, a equipe deverá contactar o setor responsável pela medição das escolas para que ele possa passar a informação ou realizar a medição do ambiente._**
+
+Após a inserção de todas as informações, clique no botão ‘GRAVAR’ e o ambiente será criado. O botão CANCELAR voltará a tela de pesquisa e descartará todos os dados preenchidos. Lembre-se: se não for marcado que o ambiente recebe turma, o mesmo não será exibido para utilizar no cadastro da turma.
+
+![Descrição alternativa da imagem](img/img_001.png)
+
+Após a criação do ambiente, o sistema voltará a tela de pesquisa onde será possível criar um novo ambiente, alterar, detalhar os ambientes já cadastrados. Sendo que, para todas essas atividades, será necessário selecionar o ambiente (pesquisando todos os ambientes criados e marcando o círculo à esquerda do ambiente desejado).
+
+**_Sugestão: É importante que todos os ambientes da escola estejam criados e associados às suas respectivas turmas pois trata-se de uma importante informação para o Educacenso._**
+
 
 ## 3. ABERTURA DE PERÍODO LETIVO
 
