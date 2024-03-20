@@ -40,7 +40,7 @@ Para realizar a ação, entre no módulo Aluno e no menu Período letivo > Abert
 
 Preencha os campos: tipo de turma (Regular ou Diversificada), curso (Curso encerrado), selecione o curso (este campo só irá aparecer os cursos que já foram encerrados), preencha a data de início do período letivo (01/02/2024). Após a inserção, clique no botão ‘PROCESSAR’ e o sistema executará a abertura. Uma tela será aberta e, caso tenha sido concluído, poderá realizar e fechar a tela e, em seguida, continuar o trabalho. Caso tenha exibido erro na janela da fila de trabalho, será necessário detalhar o trabalho a fim de identificar o problema.
 
-![Descrição alternativa da imagem](img/img_001.png)
+![Descrição alternativa da imagem](img/img_002.png)
 
 **_Caso_** a escola oferte mais de um curso, o processo deverá ser repetido uma vez para cada curso.
 
