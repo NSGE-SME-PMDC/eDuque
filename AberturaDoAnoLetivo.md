@@ -36,7 +36,16 @@ Após a criação do ambiente, o sistema voltará a tela de pesquisa onde será 
 
 ## 3. ABERTURA DE PERÍODO LETIVO
 
-Para realizar a ação, entre no módulo Aluno e no menu Período letivo > Abertura. Será nesse local que abriremos o ano letivo de um curso anual ou semestral e as turmas diversificadas. Preencha os campos: tipo de turma (Regular ou Diversificada), curso (Curso encerrado), selecione o curso (este campo só irá aparecer os cursos que já foram encerrados), preencha a data de início do período letivo (01/02/2024). Após a inserção clique no botão ‘PROCESSAR’ e o sistema executará a abertura.
+Para realizar a ação, entre no módulo Aluno e no menu Período letivo > Abertura. Será nesse local que abriremos o ano letivo de um curso anual ou semestral e as turmas diversificadas.
+
+Preencha os campos: tipo de turma (Regular ou Diversificada), curso (Curso encerrado), selecione o curso (este campo só irá aparecer os cursos que já foram encerrados), preencha a data de início do período letivo (01/02/2024). Após a inserção, clique no botão ‘PROCESSAR’ e o sistema executará a abertura. Uma tela será aberta e, caso tenha sido concluído, poderá realizar e fechar a tela e, em seguida, continuar o trabalho. Caso tenha exibido erro na janela da fila de trabalho, será necessário detalhar o trabalho a fim de identificar o problema.
+
+![Descrição alternativa da imagem](img/img_001.png)
+
+**_Caso_** a escola oferte mais de um curso, o processo deverá ser repetido uma vez para cada curso.
+
+**_Sugestão:_** Escolas que já possuem turmas de AEE ou PROSA, nesse momento abram também o ano letivo para as turmas diversificadas.
+
 
 ## 4. TURMA REGULAR
 
