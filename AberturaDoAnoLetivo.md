@@ -1,4 +1,3 @@
-+++
 # Manual eDuque - Abertura do Ano Letivo
 
 ## Sumário
@@ -14,19 +13,38 @@
 9. QUADRO DE HORÁRIOS
 10. CONSULTAS DO PROCESSO
 
-Páginas: 4, 5, 7, 8, 12, 15, 18, 21, 24, 27
-
-## INTRODUÇÃO
-
-Bem-vindo ao "Manual de Uso do e-Duque". Este guia foi cuidadosamente elaborado para proporcionar a você uma visão abrangente e detalhada do nosso sistema educacional integrado e assim capacitar você a utilizar as suas funcionalidades com confiança e eficácia. Nossa motivação para criar este manual é impulsionada por um profundo compromisso com a educação de qualidade e com a constante busca por melhorias no processo educacional. Acreditamos que a tecnologia desempenha um papel fundamental na transformação da maneira como aprendemos e ensinamos e é por isso que desenvolvemos esta ferramenta poderosa que visa revolucionar a educação de nossa cidade. Este documento não é apenas um guia passo a passo; é um convite para explorar novas maneiras de planejar o futuro da educação de Duque de Caxias. Encorajamos você a explorar as funcionalidades do sistema e buscando maneiras de aprimorar sua prática educacional ou a gestão escolar. À medida que avançamos na jornada da educação contamos com você para fazer deste sistema uma ferramenta que promova a excelência educacional e crie oportunidades de aprendizado infinitas. A educação é a chave para um futuro brilhante e estamos empolgados em fazer parte desta jornada com você.
-
-Com respeito e carinho,
-Coordenadoria do Sistema de Gestão Educacional
-
 ## 1. REVISÃO CADASTRO DA UNIDADE
 
 O cadastro ocorrerá no módulo Rede de Ensino através do menu Cadastros > Infraestrutura > Unidade Interna. Ao chegar nessa tela clique em pesquisar, selecione a escola e clique neste ícone para alterar o cadastro. Lembrando que o cadastro da unidade já foi feito, essa atividade será apenas para revisar e complementar, caso haja necessidade, os cadastros já realizados. A aba equipe nesse momento será preenchida apenas com o Diretor Geral, Vice-Diretor, Supervisor, Secretário, Educador de Apoio (Dirigente de Turno).
 
 ## 2. AMBIENTE
 
-Para cadastrar os ambientes existentes nas unidades (escolas e outros órgãos) da rede de ensino, o cadastro ocorrerá no módulo Rede de ensino
+Para cadastrar os ambientes existentes nas unidades (escolas e outros órgãos) da rede de ensino, o cadastro ocorrerá no módulo Rede de ensino através do menu Cadastros > Infraestrutura > Ambiente. Nessa tela também é possível pesquisar os ambientes já cadastrados para a unidade, o que é bastante útil pois pode evitar que seja criado um ambiente duplicado de algum já existente. Para criar um ambiente, clique no ícone de inclusão, insira as informações do ambiente: Tipo (sala de aula, almoxarifado, banheiro, etc.); Número; Localização; Recebe turma; Ambiente adaptado para sala de aula; Capacidade real; Capacidade física; Área (m²); Ambiente climatizado; Acessível para pessoas com deficiência ou mobilidade reduzida.
+
+## 3. ABERTURA DE PERÍODO LETIVO
+
+Para realizar a ação, entre no módulo Aluno e no menu Período letivo > Abertura. Será nesse local que abriremos o ano letivo de um curso anual ou semestral e as turmas diversificadas. Preencha os campos: tipo de turma (Regular ou Diversificada), curso (Curso encerrado), selecione o curso (este campo só irá aparecer os cursos que já foram encerrados), preencha a data de início do período letivo (01/02/2024). Após a inserção clique no botão ‘PROCESSAR’ e o sistema executará a abertura.
+
+## 4. TURMA REGULAR
+
+Acesse o Módulo Rede de Ensino > Cadastro > Acadêmico > Turma regular > Ano: 2024 > Pesquisar. Para as turmas que não funcionarão em 2024, selecionar e clicar no ícone (extinguir/ativar). As turmas que funcionarão em 2024, selecionar, clicar no ícone alterar (lápis) e conferir todo o cadastro.
+
+## 5. MATRICULAR ALUNO
+
+A matrícula será realizada no módulo Aluno no menu Alunos > Matrícula > Matrícula de aluno. Nela será possível efetuar a matrícula dos alunos da rede de ensino. Por esse menu é possível verificar a matrícula de novos alunos, alunos nas situações: 'Concluinte', 'Desistente', e 'Transferido'.
+
+## 6. ENTURMAÇÃO DO ALUNO
+
+A enturmação será realizada no módulo aluno no menu Turmas > Enturmação. Nela será possível a atribuição de alunos para cada tipo de turma (regular ou diversificada). Turma regular permite a enturmação de alunos que estão matriculados na unidade escolar. Turma diversificada (Turmas de AEE e PROSA) permite a enturmação em turmas diversificadas de alunos da rede de ensino.
+
+## 7. ORGANIZAÇÃO DA TURMA
+
+A organização da turma será realizada no módulo Aluno no menu Turmas > Organização. Nessa tela será possível organizar as turmas individualmente. Para isso, insira os dados Tipo de turmas, Curso, Série, Ano e clique no botão ‘PESQUISAR’.
+
+## 8. ATRIBUIÇÃO DE AULAS
+
+O cadastro das aulas de cada servidor será realizado no módulo Servidor e a primeira ação será realizar o levantamento de demanda de professores para a escola. Isso será realizado em Atribuição de aulas > Saldo de Classes > Gerar saldo de classes a atribuir.
+
+## 9. QUADRO DE HORÁRIOS
+
+A montagem do quadro de horários será no módulo servidor seguindo o caminho: Atribuição de aulas >
