@@ -10,7 +10,7 @@ Conjunto de instruções agrupados e resumidos para servir como guia de referên
 #### 1 - Conferência de conclusão dos apontamentos de frequência
 
 ### **Caminho no sistema**
-~~~~
+```
 Página Inicial > Educadores > Apontamento de desempenho e frequência das turmas > Pesquisar. Selecione a turma e clique em “Apontamento Diário de Frequência”.
-~~~~
+```
 ![Caminho no sistema](img/rec001.gif)
