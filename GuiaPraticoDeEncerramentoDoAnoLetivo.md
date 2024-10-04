@@ -14,3 +14,12 @@ Conjunto de instruções agrupados e resumidos para servir como guia de referên
 Página Inicial > Educadores > Apontamento de desempenho e frequência das turmas > Pesquisar. Selecione a turma e clique em “Apontamento Diário de Frequência”.
 ```
 ![Caminho no sistema](img/rec001.gif)
+
+### **Descrição da atividade:**
+#### 2 - Conferência de conclusão dos apontamentos de desempenho / desenvolvimento (Nota) / (Relatório)
+
+### **Caminho no sistema**
+```
+Página Inicial > Educadores  > Apontamento de desempenho e frequência das turmas > Pesquisar. Selecione a turma e clique em “Apontamento de Frequência e Desempenho / Desenvolvimento".
+```
+![Caminho no sistema](img/rec002.gif)
