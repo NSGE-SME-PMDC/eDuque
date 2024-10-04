@@ -78,7 +78,7 @@ Página Inicial > Educadores  > Apontamento de desempenho e frequência das turm
 ```
 Página Inicial > Acesso Restrito > Gestão Escolar > Escolha sua UE > Módulo Aluno > Tabelas > Observações para turmas e alunos. Clique em “Pesquisar” , clique em “incluir”, preencha os campos, clique em “incluir” para adicionar as turmas pertinentes à observação criada e clique em gravar. 
 ```
-![Caminho no sistema](img/rec005.gif)
+![Caminho no sistema](img/rec008.gif)
 
 ### **Descrição da atividade:**
 #### 9 -  I Gerar a Ata de Resultados Finais.
@@ -87,4 +87,4 @@ Página Inicial > Acesso Restrito > Gestão Escolar > Escolha sua UE > Módulo A
 ```
 Página Inicial > Acesso Restrito > Gestão Escolar > Escolha sua UE > Módulo Aluno > Consultas > Operacionais > Ata de resultados finais. Preencha os campos e clique em gerar. 
 ```
-![Caminho no sistema](img/rec005.gif)
+![Caminho no sistema](img/rec009.gif)
