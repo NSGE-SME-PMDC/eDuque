@@ -32,3 +32,12 @@ Página Inicial > Educadores  > Apontamento de desempenho e frequência das turm
 Página Inicial > Educadores  > Apontamento de desempenho e frequência das turmas > Pesquisar. Selecione o “Curso”, clique em “Pesquisar”, selecione a “turma” e depois clique em “Registro dos Conteúdos Curriculares Trabalhados”.
 ```
 ![Caminho no sistema](img/rec003.gif)
+
+### **Descrição da atividade:**
+#### 4 - Gerar o parecer conclusivo.
+
+### **Caminho no sistema**
+```
+Página Inicial > Acesso Restrito > Gestão Escolar > Escolha sua UE > Módulo Aluno > Turmas > Apontamentos > Gerar parecer conclusivo. Selecione o curso e série e clique em Pesquisar, Escolha uma ou mais turmas e clique em “Gerar”.  Confirme a geração do Resultado Final.
+```
+![Caminho no sistema](img/rec004.gif)
