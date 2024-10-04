@@ -41,3 +41,12 @@ Página Inicial > Educadores  > Apontamento de desempenho e frequência das turm
 Página Inicial > Acesso Restrito > Gestão Escolar > Escolha sua UE > Módulo Aluno > Turmas > Apontamentos > Gerar parecer conclusivo. Selecione o curso e série e clique em Pesquisar, Escolha uma ou mais turmas e clique em “Gerar”.  Confirme a geração do Resultado Final.
 ```
 ![Caminho no sistema](img/rec004.gif)
+
+### **Descrição da atividade:**
+#### 5 - .Lançar as notas de recuperação final.
+
+### **Caminho no sistema**
+```
+Página Inicial > Educadores  > Apontamento de desempenho e frequência das turmas > Pesquisar. Selecione a turma e clique em “Apontamento de Frequência e Desempenho / Desenvolvimento". Na aba “Avaliação e falta por componente curricular”, selecione “Recuperação Final”, no campo “Apontamento”.
+```
+![Caminho no sistema](img/rec004.gif)
