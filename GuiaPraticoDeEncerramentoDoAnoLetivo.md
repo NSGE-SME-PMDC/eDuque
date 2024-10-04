@@ -69,7 +69,7 @@ Página Inicial > Acesso Restrito > Gestão Escolar > Escolha sua UE > Módulo A
 ```
 Página Inicial > Educadores  > Apontamento de desempenho e frequência das turmas > Pesquisar. Selecione o “Curso”, a “Série”, clique em “Pesquisar”, selecione a “turma”, e depois clique em “Apontamento de Frequência e Desempenho / Desenvolvimento". Na aba “Avaliação e falta por componente curricular”, selecione “Resultado Final do Período Letivo”, no campo “Apontamento”
 ```
-![Caminho no sistema](img/rec005.gif)
+![Caminho no sistema](img/rec007.gif)
 
 ### **Descrição da atividade:**
 #### 8 -  Incluir a observação da ata.
