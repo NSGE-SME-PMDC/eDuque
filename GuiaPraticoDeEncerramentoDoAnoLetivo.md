@@ -23,3 +23,12 @@ Página Inicial > Educadores > Apontamento de desempenho e frequência das turma
 Página Inicial > Educadores  > Apontamento de desempenho e frequência das turmas > Pesquisar. Selecione a turma e clique em “Apontamento de Frequência e Desempenho / Desenvolvimento".
 ```
 ![Caminho no sistema](img/rec002.gif)
+
+### **Descrição da atividade:**
+#### 3 - Conferência de conclusão dos Registros dos Conteúdos Curriculares
+
+### **Caminho no sistema**
+```
+Página Inicial > Educadores  > Apontamento de desempenho e frequência das turmas > Pesquisar. Selecione o “Curso”, clique em “Pesquisar”, selecione a “turma” e depois clique em “Registro dos Conteúdos Curriculares Trabalhados”.
+```
+![Caminho no sistema](img/rec003.gif)
