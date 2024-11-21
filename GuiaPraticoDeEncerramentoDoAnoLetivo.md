@@ -33,7 +33,7 @@ Página Inicial > Acesso Restrito > Gestão Escolar > Escolha sua UE > Módulo A
 `
 ![Caminho no sistema](img/rec004.gif)
 
-# 5 - .Lançar as notas de recuperação final.
+# 5 - Lançar as notas de recuperação final.
 
 `
 Página Inicial > Educadores  > Apontamento de desempenho e frequência das turmas > Pesquisar. Selecione a turma e clique em “Apontamento de Frequência e Desempenho / Desenvolvimento". Na aba “Avaliação e falta por componente curricular”, selecione “Recuperação Final”, no campo “Apontamento”.
