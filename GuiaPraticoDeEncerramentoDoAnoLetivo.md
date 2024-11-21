@@ -1,6 +1,5 @@
 
 # GUIA  PRÁTICO DE ENCERRAMENTO DO ANO LETIVO 2024
-## Sobre:
 Conjunto de instruções agrupados e resumidos para servir como guia de referência e para cunsultas rápidas de acessar os recursos necessários ao processo em questão.
 
 # 1 - Conferência de conclusão dos apontamentos de frequência 
@@ -64,7 +63,6 @@ Página Inicial > Acesso Restrito > Gestão Escolar > Escolha sua UE > Módulo A
 
 # 9 -  I Gerar a Ata de Resultados Finais.
 
-### **Caminho no sistema**
 `
 Página Inicial > Acesso Restrito > Gestão Escolar > Escolha sua UE > Módulo Aluno > Consultas > Operacionais > Ata de resultados finais. Preencha os campos e clique em gerar. 
 `
