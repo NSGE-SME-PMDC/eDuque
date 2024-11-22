@@ -1,4 +1,4 @@
-# Geração de Listagem de Dados dos Alunos para uso no processo de Eleição de Diretóres Escolares
+# Geração de Listagem de Dados dos Alunos para uso no processo de Eleição de Diretores Escolares
 
 O contexto atual: o sistema não possui uma listagem específica para este processo. Trata-se de uma ação que já foi encaminhada, com a implementação solicitada. 
 
@@ -27,7 +27,7 @@ Os passos são:
    - Finalize o processo clicando no botão **"DOWNLOAD"**.
 
 
-# Geração de Listagem de Dados dos Professores da unidade para uso no processo de Eleição de Diretóres Escolares
+# Geração de Listagem de Dados dos Professores da unidade para uso no processo de Eleição de Diretores Escolares
 
 O contexto atual: o sistema permite listar os professores de uma unidade e gerar um relatório em formato de planilha eletrônica para download.
 
