@@ -1,0 +1,3 @@
+[14:08, 18/11/2024] +55 31 9654-4552: Você dá a dispensa do bimestre letivo aqui Aluno > Alunos > Matrícula > Dispensa de período/unidade
+[14:09, 18/11/2024] +55 31 9654-4552: Nessa tela vc dispensa todos os componentes e todos os bimestres selecionados. É usado naqueles casos q o aluno vêm de outra rede com a forma de avaliação diferente.
+[14:10, 18/11/2024] +55 31 9654-4552: Ai só complementando se for o caso de um componente que só tem na rede de vocês e a escola anterior do aluno não tinha você dispensa apenas aquele componente nos bimestres selecionados aqui Aluno > Alunos > Matrícula > Dispensa de componente curricular
