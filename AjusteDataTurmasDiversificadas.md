@@ -21,8 +21,7 @@ A escola deve estar atenta ao período em que a **Turma de AEE e PROSA** foi ini
 
 Veja o exemplo abaixo:
 
-![](img/video_AEE_PROSA_001.gif)
-
+![](https://github.com/NSGE-SME-PMDC/eDuque/blob/main/img/video_AEE_PROSA_001.gif)
 ---
 
 Lembre-se de que o objetivo é ajustar os dados para **evitar pendências desnecessárias**, então, vamos verificar as configurações destacadas abaixo!
@@ -31,7 +30,7 @@ Lembre-se de que o objetivo é ajustar os dados para **evitar pendências desnec
 
 Agora, nosso foco é o seguinte bloco de informação:
 
-![](img/imagem_tutorial_AEE_PORSA.png)
+![](https://github.com/NSGE-SME-PMDC/eDuque/blob/main/img/imagem_tutorial_AEE_PORSA.png)
 
 **Certifique-se de que estes são os dias de atendimento.**
 
@@ -39,7 +38,7 @@ Agora, nosso foco é o seguinte bloco de informação:
 
 Agora, vamos nos concentrar nestes campos:
 
-![](img/imagem_tutorial_AEE_PORSA_datas.png)
+![](https://github.com/NSGE-SME-PMDC/eDuque/blob/main/img/imagem_tutorial_AEE_PORSA_datas.png)
 
 ### Campos para Preenchimento
 
