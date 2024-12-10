@@ -54,3 +54,4 @@ Neste momento, é necessário fazer a **contabilização dos dias** junto ao cal
 Considere os **dias da semana de atendimento** quando estiver no processo de contagem.  
 **Esta apuração não é automatizada**, precisa ser verificada manualmente.  
 Sabendo o período do bimestre, o processo de contabilização se torna mais ágil.
+**Observação:** Os dias letivos sem apuração de frequência não devem ser contabilizados para efeito de contagem.
